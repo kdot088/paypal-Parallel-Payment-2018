@@ -1,4 +1,11 @@
-# Using the PayPal Adaptive Payment API in PHP to make a Chained and Parallel payment
+# Paypal Parallel Payments Using PHP - php programming - learn php- code script
+
+The PayPal Adaptive Payments API is used to transfer money from a sender’s PayPal account to one or more than one PayPal receiver PayPal accounts. You can use PayPal Adaptive Payments to make simple payments, chained payments and parallels payments.
+
+In this tutorial, we are going to demonstrate how we use PayPal adaptive apartment to make parallel payment.
+gvb
+
+Parallel payments are useful in cases when a buyer intends to make a single payment for items from multiple sellers.
 
 This is an example of the PayPal Adaptive Payment API in PHP to make a Chained and Parallel payment.
 
