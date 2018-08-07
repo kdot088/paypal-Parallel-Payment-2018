@@ -17,13 +17,13 @@ $result = $paypal->call(
     'receiverList' => array(
         'receiver' => array(
             array(
-                'amount' => '2.00',
-                'email' => 'mk_merchant@gmail.com',
+                'amount' => '12.00',
+                'email' => 'your_paypal_accountn@here.com',
                 'primary' => 'false',
             ),
             array(
-                'amount' => '3.00',
-                'email' => 'buymk@gmail.com',
+                'amount' => '13.00',
+                'email' => 'here@yourpaypal.com',
             ),
         ),
     ),

@@ -2,7 +2,7 @@
 
 This is an example of the PayPal Adaptive Payment API in PHP to make a Chained and Parallel payment.
 
-This code does not use an SDK but instead uses a basic wrapper to handle the NVP API. You can use [this wrapper](https://github.com/maheshkathiriya/paypal-Parallel-Payment-2018) as a drop in for your project.
+This code does not use an SDK but instead uses a basic wrapper to handle the NVP API. You can use [this](https://github.com/maheshkathiriya/paypal-Parallel-Payment-2018) as a drop in for your project.
 
 ## Technology
 
@@ -28,8 +28,8 @@ This demo uses
 * You will be redirected to PayPal
 
 * Login using the following credentials:
-  * Username: `us-customer@commercefactory.org`
-  * Password: `test1234`
+  * Username: `your buyer test account`
+  * Password: `test account password`
 
 * Complete the payment instructions
 
